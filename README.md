@@ -8,7 +8,7 @@ Jui Khankari
 Ethan Katz
 
 ## Project description
-A graphics game based on the famous game "Duck Hunt". The player will use a handmade gun consisting of a single trigger (button) and some kind of focused light sensor. The player will point this gun at bugs on the screen and press the trigger to vaporize them. There will be a leaderboard.
+A graphics game based on the famous game "Duck Hunt". The player uses a handmade gun consisting of a single trigger (button) and a light sensor. The player will point this gun at bugs on the screen and press the trigger to vaporize them with a leaderboard at the end. 
 
 ## Contributions
 Francisco: Hardware, constructing gun, designing game.
