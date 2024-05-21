@@ -1,6 +1,4 @@
-# CS107e template
-=======
-## Project title
+# The Debugger
 
 ## Team members
 Francisco Alvarez Clemente
@@ -16,7 +14,7 @@ Jui: Input processing, setting up gun as device.
 Ethan: Graphics.
 There was an overlap in helping one another out.
 
-## Video
-https://photos.app.goo.gl/ddyMoNV6ziQaUwqC9\
+## [Video] (https://photos.app.goo.gl/ddyMoNV6ziQaUwqC9)
+
 
 >>>>>>> 7d6d85f9c80ec17f95c60559b486d9b5c9d126ee
